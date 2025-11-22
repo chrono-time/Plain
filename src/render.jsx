@@ -5,7 +5,6 @@ import { StaticRouter } from "react-router-dom/server";
 import { useEffect } from 'react';
 import { MetaTagProvider } from '../library/client/serverCallHandler';
 import './css/index.css'
-import './css/materialFonts.css'
 
 //Add global CSS here
 

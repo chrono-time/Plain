@@ -19,7 +19,6 @@ const PublicPageRender = loadable(() => import('./A_publicPages/publicPageRender
 
 const App = () => {
 
-    console.log(process.env)
     
 
     return (
