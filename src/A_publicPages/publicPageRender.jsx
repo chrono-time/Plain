@@ -8,10 +8,10 @@ const PublicPageRender = () => {
 
         <>
             <Meta>
-                <title>VoiceScout - Find your voice</title>
-                <meta name="description" content="VoiceScout is a platform to find voice actors for your projects."></meta>
-                <meta name="keywords" content="voice, voiceover, voice actor, voice talent, casting, auditions, demo reels, voiceover marketplace"></meta>
-                <meta name="author" content="VoiceScout"></meta>
+                <title>Engineering Log — SSR-friendly blog layout</title>
+                <meta name="description" content="A readable, server-first blog layout built with React Router that keeps routing and middleware under your control."></meta>
+                <meta name="keywords" content="React SSR, blog layout, React Router, server rendering, hydration, engineering notes"></meta>
+                <meta name="author" content="Engineering Log"></meta>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
             </Meta>
             <PublicPageApp />
